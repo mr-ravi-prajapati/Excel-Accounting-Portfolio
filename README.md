@@ -35,4 +35,4 @@ Contact:
 
 ## Dashboard Preview
 
-![Accounting Dashboard](Account Dashboard 1.png)
+![Dashboard](Dashboard .png)
