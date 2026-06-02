@@ -35,11 +35,4 @@ Contact:
 
 ## Dashboard Preview
 
-### Screenshot
-![Preview](Screenshot 2026-06-02 125938.png)
-
-### Dashboard 1
-![Dashboard](Dashboard 2.png)
-
-### Dashboard 2
-![Accounting](Accounting.png)
+![Accounting Dashboard](Account Dashboard 1.png)
