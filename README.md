@@ -32,3 +32,14 @@ Welcome to my professional portfolio repository.
 
 Contact:
 📧 mr.raviprajapati@outlook.in
+
+## Dashboard Preview
+
+### Dashboard 1
+![Dashboard](Dashboard 2.png)
+
+### Dashboard 2
+![Accounting](Accounting.png)
+
+### Screenshot
+![Preview](Screenshot 2026-06-02 125938.png)
